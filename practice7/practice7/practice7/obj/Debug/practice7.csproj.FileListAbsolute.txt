@@ -1,0 +1,21 @@
+C:\Users\Данила\source\repos\practice7\practice7\bin\Debug\practice7.exe.config
+C:\Users\Данила\source\repos\practice7\practice7\bin\Debug\practice7.exe
+C:\Users\Данила\source\repos\practice7\practice7\bin\Debug\practice7.pdb
+C:\Users\Данила\source\repos\practice7\practice7\obj\Debug\practice7.csprojResolveAssemblyReference.cache
+C:\Users\Данила\source\repos\practice7\practice7\obj\Debug\practice7.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\practice7\practice7\obj\Debug\practice7.exe
+C:\Users\Данила\source\repos\practice7\practice7\obj\Debug\practice7.pdb
+C:\Users\Адам Арсанукаев\Desktop\practice7\practice7\bin\Debug\practice7.exe.config
+C:\Users\Адам Арсанукаев\Desktop\practice7\practice7\bin\Debug\practice7.exe
+C:\Users\Адам Арсанукаев\Desktop\practice7\practice7\bin\Debug\practice7.pdb
+C:\Users\Адам Арсанукаев\Desktop\practice7\practice7\obj\Debug\practice7.csprojResolveAssemblyReference.cache
+C:\Users\Адам Арсанукаев\Desktop\practice7\practice7\obj\Debug\practice7.csproj.CoreCompileInputs.cache
+C:\Users\Адам Арсанукаев\Desktop\practice7\practice7\obj\Debug\practice7.exe
+C:\Users\Адам Арсанукаев\Desktop\practice7\practice7\obj\Debug\practice7.pdb
+A:\Лабы по проганью\practice7\practice7\practice7\bin\Debug\practice7.exe.config
+A:\Лабы по проганью\practice7\practice7\practice7\bin\Debug\practice7.exe
+A:\Лабы по проганью\practice7\practice7\practice7\bin\Debug\practice7.pdb
+A:\Лабы по проганью\practice7\practice7\practice7\obj\Debug\practice7.csprojResolveAssemblyReference.cache
+A:\Лабы по проганью\practice7\practice7\practice7\obj\Debug\practice7.csproj.CoreCompileInputs.cache
+A:\Лабы по проганью\practice7\practice7\practice7\obj\Debug\practice7.exe
+A:\Лабы по проганью\practice7\practice7\practice7\obj\Debug\practice7.pdb
